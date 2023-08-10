@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T08:33:59.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="vvqR9r-YkVgXoaMSC-C8" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T08:38:29.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="5-XaAhTnt3Iof9g9w9Bi" version="21.6.7" type="github">
   <diagram name="第 1 页" id="Fyp3r1S8YzBOv9O5g39B">
-    <mxGraphModel dx="2571" dy="2210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2571" dy="2162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -790,6 +790,23 @@
         </UserObject>
         <mxCell id="j3NVVVx2y1GNwKvEe4mU-243" value="state:wait" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="103.37" y="685.5" width="54.25" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="" tags="Background" id="j3NVVVx2y1GNwKvEe4mU-244">
+          <mxCell style="vsdxID=89;edgeStyle=none;dashed=1;startArrow=none;endArrow=block;startSize=5;endSize=5;strokeWidth=2;strokeColor=#323232;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=-0.023;exitY=0.843;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.526;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="j3NVVVx2y1GNwKvEe4mU-147">
+            <mxGeometry relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="19.4" y="824.35" />
+              </Array>
+              <mxPoint x="99.99699999999999" y="824.8000000000003" as="sourcePoint" />
+              <mxPoint x="19.299999999999862" y="810.0049999999998" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="j3NVVVx2y1GNwKvEe4mU-245" value="放回" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="36" y="821" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j3NVVVx2y1GNwKvEe4mU-246" value="摘除" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="53.370000000000005" y="682" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
